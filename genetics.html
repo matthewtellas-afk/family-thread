@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Genetics · The Family Thread</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="app.css?v=f67dfbe8">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Source+Sans+3:wght@400;600&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+
+
+</head>
+<body data-page="genetics" data-sections="genetics">
+<header class="topbar"><div class="top-in">
+  <a class="brand" href="index.html"><b>The Family Thread</b><small id="newest-line"></small></a>
+  <nav class="nav" aria-label="Pages"><a href="index.html">Start</a><a href="person.html">Profile</a><a href="wall.html">The wall</a><a href="people.html">People</a><a href="book.html">The book</a><a href="genetics.html" aria-current="page">Genetics</a><a href="timeline.html">Timeline</a><a href="stories.html">Stories</a><a href="evidence.html">Evidence</a><a href="submit.html">Add yours</a></nav>
+  <button class="icon-btn" id="find-btn" aria-label="Find a person" aria-expanded="false" aria-controls="find-panel"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg></button>
+  <div class="panel find" id="find-panel" role="search" hidden><input id="find" type="search" placeholder="Find anyone in the family" autocomplete="off" aria-label="Find a person" aria-controls="find-list" aria-expanded="false" role="combobox"><ul class="find-list" id="find-list" role="listbox" hidden></ul></div>
+</div></header>
+
+<div class="wrap" id="top">
+
+<section class="welcome" id="welcome" aria-labelledby="w-title">
+  <div class="welcome-txt">
+    <span class="plaque">A family history in pictures</span>
+    <h1 id="w-title">Who are you in this family?</h1>
+    <p class="lede">Find your name. The thread then runs both ways: the people who came before you, and the people who came after.</p>
+    <form class="find-form" onsubmit="return false">
+      <label for="who" class="plaque">Your name</label>
+      <div class="find-big"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg><input id="who" type="search" placeholder="Janice, Shirley, Ron…" autocomplete="off" aria-controls="who-list" role="combobox" aria-expanded="false"><ul class="find-list panel" id="who-list" role="listbox" hidden style="position:absolute;left:0;right:0;top:calc(100% + 6px)"></ul></div>
+      <div class="chips"><span class="cap">Or pick a branch:</span><span id="branch-chips" class="chips"></span></div>
+      <div class="chips"><button class="btn" id="visit" type="button">I’m just visiting</button><span class="cap">Living relatives appear by name only. Tap <b>This is me</b> on your own profile to see the family from your side.</span></div>
+    </form>
+    <div class="plq otd" id="otd"></div>
+  </div>
+  <div class="wall-grid" id="welcome-wall"></div>
+</section>
+
+<section class="sec" id="start">
+  <div class="start-grid">
+    <button class="plq link" id="surprise" type="button"><span class="plaque">Surprise me</span><h4>A person at random</h4><span class="cap">Tap and meet someone you’ve never heard of.</span></button>
+    <a class="plq link" href="wall.html"><span class="plaque">From the papers</span><h4>Real clippings, 1876–1913</h4><span class="cap">Death of Sheriff Teke. Dillsborough Items. Two funeral notices.</span></a>
+    <a class="plq link" href="book.html"><span class="plaque">The 1991 book</span><h4>Tellas, About Ourselves</h4><span class="cap">Every claim kept, each with a fact check.</span></a>
+    <div class="plq rel"><span class="plaque">How are we related?</span><div class="chips" style="gap:6px"><select id="rel-a" aria-label="First person"></select><span class="cap">and</span><select id="rel-b" aria-label="Second person"></select></div><div id="rel-out"></div></div>
+  </div>
+</section>
+
+<section class="hero" id="map">
+  <div class="hero-txt" id="profile"></div>
+  <div class="fan-card">
+    <div class="persp-bar"><button class="ghost" id="p-back" disabled>← Back</button><span class="crumb" id="p-crumb">View</span><button class="ghost" id="p-me" disabled>Start</button></div>
+    <div id="persp-wrap"><svg id="fan" viewBox="-340 -340 680 680" role="img" aria-label="Family chart centered on one person: ancestors fan out above, sized by expected share of DNA; descendants run down below"></svg></div>
+    <div class="legend-sym" aria-label="How to read the chart"><span class="lk">Shape</span><span><i></i>Man</span><span><i class="c"></i>Woman</span><span><i class="m"></i>Marriage</span><span><i class="d"></i>The future</span><span><span class="term" data-t="pedigree">How to read this</span></span></div>
+    <div class="legend-sym" aria-label="Color key"><span class="lk">Color = family branch</span><span><i class="c" style="background:var(--q1)"></i>Tellas (Doug)</span><span><i class="c" style="background:var(--q2)"></i>Clark (Janet)</span><span><i class="c" style="background:var(--q3)"></i>Fratzke (Bill)</span><span><i class="c" style="background:var(--q4)"></i>Timmons (Carole)</span><span><i class="c" style="background:var(--q5)"></i>Resma (Share)</span><span><i class="c" style="background:var(--q0)"></i>Where they meet</span></div>
+    <div class="modes" role="group" aria-label="Highlight">
+      <button class="pill" data-mode="none" aria-pressed="true">Everyone</button>
+      <button class="pill" data-mode="y" aria-pressed="false">Y line</button>
+      <button class="pill" data-mode="mt" aria-pressed="false">mtDNA line</button>
+      <button class="pill" data-mode="x" aria-pressed="false">X-DNA</button>
+      <button class="pill" data-mode="women" aria-pressed="false">Women</button>
+    </div>
+    <div class="fan-focus" id="fan-focus"></div>
+  </div>
+</section>
+
+<section class="queue" id="queue" hidden></section>
+
+<section class="sec" id="submit-sec" hidden>
+  <div class="sec-head"><div class="plaque">Add to the thread</div><h2>Send a photo, a story or a note</h2>
+  <p>This is how the page grows. Pick who it is about, or choose the whole family. Matt reads everything first, checks it against what we know, and then adds it. Your name appears with it; nothing else about you is kept.</p></div>
+  <div class="chips"><button class="btn" type="button" id="submit-open">Open the form</button><span class="cap">Photos up to 20 MB. Old prints are welcome: a phone picture of the print is fine.</span></div>
+</section>
+
+<section class="sec" id="wall-sec">
+  <div class="sec-head"><div class="plaque">The wall</div><h2>Everything real we have found</h2><p>Family photographs, newspaper clippings and records, hung as they were kept in the 1991 book. Tap any frame to read its plaque and meet the people in it.</p></div>
+  <div class="wall-filters" id="wall-filters"></div>
+  <div class="wall" id="wall"></div>
+  <div class="plq newest-plq" id="newest-plq"></div>
+</section>
+
+<section class="sec" id="people">
+  <div class="sec-head"><div class="plaque">Everyone</div><h2>Everyone in the family</h2><p>Grouped by when they were born. Open anyone for their story, places, pictures and records.</p></div>
+  <div class="filters" id="filters"></div>
+  <div class="cards" id="cards"></div>
+</section>
+
+<section class="sec" id="book">
+  <div class="sec-head"><div class="plaque">The family book</div><h2>Tellas, About Ourselves, fact-checked</h2>
+  <p>In 1991 Terrence Hillman, a great-great-grandson of John and Margaret Tellas, published a 209-page history of their descendants. He built it from courthouses, church books, cemeteries, old newspapers and family albums. It is the backbone of the Tellas side of this page. Every claim is kept as the book tells it, with a fact-check note underneath.</p></div>
+  <p class="book-meta" id="book-meta"></p>
+  <div class="vscore" id="book-score"></div>
+  <div class="book-photos" id="book-photos"></div>
+  <div class="ctrls" id="book-topics"></div>
+  <div class="claims" id="book-claims"></div>
+  <div class="sec-head" style="margin-top:24px"><div class="plaque">What to gather next</div><h3>The book shows what a well-kept branch looks like. Here is the same checklist for every line.</h3><p>Filled circle: we have it. Half: some. Empty: still needed. The last column says who could help.</p></div>
+  <div class="tablebox"><div id="gather"></div></div>
+</section>
+
+<section class="sec" id="genetics">
+  <div class="sec-head"><div class="plaque">Genetics</div><h2 id="gen-title">What they inherited</h2>
+  <p>Slice size in the chart is <span class="term" data-t="share">expected DNA share</span>: half from each parent, a quarter from each grandparent, and so on. Real inheritance is random around those numbers because of <span class="term" data-t="recombination">recombination</span>, and past about ten generations a person may carry nothing from a given ancestor at all (a <span class="term" data-t="genetic">genealogical but not genetic ancestor</span>).</p></div>
+  <div class="trio" id="trio"></div>
+  <div class="tile"><div class="plaque">Paper-trail prediction</div><h4 id="origin-who">Where the DNA comes from</h4><div class="bars" id="origin-dna"></div><p class="note">A prediction to compare against a DNA test. “Not yet traced” is the share sitting behind unknown parents.</p></div>
+</section>
+
+<section class="sec" id="river-sec">
+  <div class="sec-head"><div class="plaque">Timeline</div><h2>Who was alive when</h2><p>Every bar is a life. Colors show the family branch. Tap a bar to open that person.</p></div>
+  <div class="river-box"><svg id="river" role="img" aria-label="Lifespans of ancestors from 1500 to today"></svg></div>
+</section>
+
+<section class="sec" id="stories">
+  <div class="sec-head"><div class="plaque">Stories</div><h2>The chapters</h2></div>
+  <div class="chapters" id="chapters"></div>
+</section>
+
+<section class="sec" id="evidence">
+  <div class="sec-head"><div class="plaque">Proof</div><h2>The evidence locker</h2><p>Every source behind this page is captured offline with the time it was saved and a SHA-256 fingerprint. If a page later changes or disappears, the saved copy and its fingerprint show exactly what it said and when.</p></div>
+  <div class="ev-grid" id="ev-stats"></div>
+  <div class="tablebox" style="max-height:420px;overflow-y:auto"><table class="ev-table"><thead><tr><th>Source</th><th>Captured</th><th>SHA-256</th></tr></thead><tbody id="ev-rows"></tbody></table></div>
+</section>
+
+<footer>
+  <div class="chips"><button class="btn" type="button" data-submit="family">Send a photo or story</button><span class="cap">Anything you add goes to Matt first. He checks it and adds it to the page.</span></div>
+  <div>Sources: obituaries, Find a Grave, WikiTree, the 1950 U.S. Census (National Archives), the Tullis DNA Project, and “Tellas, About Ourselves” (Terrence A. Hillman, 1991). Lines before 1800 rely on collaborative trees and should be checked against original records. Living relatives appear by name only.</div>
+  <div>Era images are public domain, via Wikimedia Commons, and are pictures of a time and place, never of the person. Photo enhancements are marked; the originals are in the book.</div>
+</footer>
+</div>
+<div class="ov" id="clip-ov" hidden><div class="retold" id="clip-paper" role="dialog" aria-modal="true" aria-label="Story retold from the records"></div><button class="ov-close" id="clip-close" aria-label="Close the story">Close ✕</button></div>
+<div class="ov" id="real-ov" hidden><div class="paper" id="real-paper" role="dialog" aria-modal="true" aria-label="Newspaper clipping"></div><button class="ov-close" id="real-close" aria-label="Close the clipping">Close ✕</button></div>
+<div class="ov" id="sub-ov" hidden>
+  <form class="submit-box" id="sub-form" role="dialog" aria-modal="true" aria-labelledby="sub-title">
+    <span class="plaque">Send something for <span id="sub-for"></span></span>
+    <h3 id="sub-title">Add to the family thread</h3>
+    <p class="cap">Matt reviews everything before it appears. Your name is shown with it; nothing else about you is kept.</p>
+    <label>Who is it about<select id="sub-person"></select></label>
+    <div class="kinds" id="sub-kinds"><button type="button" class="pill" data-kind="story" aria-pressed="true">A story</button><button type="button" class="pill" data-kind="comment" aria-pressed="false">A note or memory</button><button type="button" class="pill" data-kind="photo" aria-pressed="false">A photo</button></div>
+    <label>Your name<input type="text" id="sub-name" maxlength="80" placeholder="e.g. Janice Fratzke"></label>
+    <label>How Matt can reach you (optional)<input type="text" id="sub-contact" maxlength="120" placeholder="Email or phone, only if you want a reply"></label>
+    <label id="sub-file-wrap" hidden>The photo<input type="file" id="sub-file" accept="image/jpeg,image/png,image/webp,image/gif,image/heic"></label>
+    <label>What you remember, or the caption<textarea id="sub-text" maxlength="4000" placeholder="Where and when it was taken, who is in it, or the story as you remember it."></textarea></label>
+    <div class="chips"><button class="btn" type="submit">Send to Matt</button><button class="ghost" type="button" id="sub-close">Cancel</button><span class="cap" id="sub-status"></span></div>
+  </form>
+</div>
+
+<script>
+(function () {
+  const page = document.body.dataset.page;
+  const show = new Set((document.body.dataset.sections || '').split(' '));
+  // Sections stay in the DOM (the shared scripts expect them) but only this page's are shown.
+  for (const s of document.querySelectorAll('.wrap > section')) { if (!show.has(s.id)) { s.hidden = true; s.setAttribute('data-offpage', ''); } else if (s.id === 'submit-sec') s.hidden = false; }
+})();
+</script>
+<script src="app.js?v=f67dfbe8"></script>
+<script>
+(function () {
+  const page = document.body.dataset.page, q = new URLSearchParams(location.search);
+  if (page === 'person') { const id = q.get('id'); if (id && byId[id]) focusOn(id, { instant: true }); renderHero(focusId); }
+  if (page === 'submit') { const who = q.get('person') || 'family'; $('submit-open').addEventListener('click', () => openSubmit(who, q.get('kind') || 'story')); openSubmit(who, q.get('kind') || 'story'); }
+  // the owner queue only exists on the artifact; on the site it is always hidden
+  const qd = document.getElementById('queue'); if (qd) qd.hidden = true;
+  // off-page sections must never be un-hidden by scripts
+  for (const s of document.querySelectorAll('section[data-offpage]')) s.hidden = true;
+})();
+</script>
+</body>
+</html>
