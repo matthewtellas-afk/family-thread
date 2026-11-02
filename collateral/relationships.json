@@ -1,0 +1,721 @@
+{
+ "_about": "Spouse links (the person schema has no spouse field) and parent links that are suggested but not stated. Only links with statedInSource=true should be loaded as-is.",
+ "relationships": [
+  {
+   "id": "rel-spouse-john2-sophia-link",
+   "type": "spouse",
+   "a": "john2",
+   "b": "sophia-link",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1903-01-03 (“inf of John & Sophia Tellas II”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-jerry-rosa-spangler",
+   "type": "spouse",
+   "a": "jerry",
+   "b": "rosa-spangler",
+   "date": "1889",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1889-12-04 (“Jeremiah & Rosa Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-ray-tellas-elizabeth-ray",
+   "type": "spouse",
+   "a": "ray-tellas",
+   "b": "elizabeth-ray",
+   "date": "1930",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1930-11-07 (“Raymond J & Elizabeth Tellas 1”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-william-t-tellas-anna-pieper",
+   "type": "spouse",
+   "a": "william-t-tellas",
+   "b": "anna-pieper",
+   "date": "1902",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1902-04-16 (“William & Anna (Pieper) Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-john-louis-tellas-anna-herbert",
+   "type": "spouse",
+   "a": "john-louis-tellas",
+   "b": "anna-herbert",
+   "date": "1920",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1920-05-14 (“John Louis & Anna Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-john-louis-tellas-mabel-black",
+   "type": "spouse",
+   "a": "john-louis-tellas",
+   "b": "mabel-black",
+   "date": "1930",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1930-09-28 (“John Louis & Mabel Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-thomas-f-tellas-clara-koebbe",
+   "type": "spouse",
+   "a": "thomas-f-tellas",
+   "b": "clara-koebbe",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1921-06-08 (“Thomas F & Clara E Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-frank-garrett-tellas-elizabeth-frank",
+   "type": "spouse",
+   "a": "frank-garrett-tellas",
+   "b": "elizabeth-frank",
+   "date": "1925",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1925-08-03 (“Frank & Elizabeth Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-walter-thackery-anna-tellas-thackery",
+   "type": "spouse",
+   "a": "walter-thackery",
+   "b": "anna-tellas-thackery",
+   "date": "1921",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1921-04-24 (“Walter & Anna (Tellas) Thackery”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-george-f-tellas-clara-wolsiffer",
+   "type": "spouse",
+   "a": "george-f-tellas",
+   "b": "clara-wolsiffer",
+   "date": "1920",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1920-05-02 (“George & Clara Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-henry-swango-1-alice-tellas",
+   "type": "spouse",
+   "a": "henry-swango-1",
+   "b": "alice-tellas",
+   "date": "1892",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1892-11-21 (“Henry & Alice (Tellas) Swango 1”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-frank-g-falderman-annie-tellas",
+   "type": "spouse",
+   "a": "frank-g-falderman",
+   "b": "annie-tellas",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1901-06-14 (“Frank & Anna Falderman”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-charles-bailey-annie-tellas",
+   "type": "spouse",
+   "a": "charles-bailey",
+   "b": "annie-tellas",
+   "date": "1893",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1893-01-01 (“Charles & Anna Bailey”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-samuel-bailey-1-anne-ward",
+   "type": "spouse",
+   "a": "samuel-bailey-1",
+   "b": "anne-ward",
+   "date": "1917",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1917-08-15 (“Samuel T & Anne Bailey 1”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-samuel-bailey-1-alma-bailey",
+   "type": "spouse",
+   "a": "samuel-bailey-1",
+   "b": "alma-bailey",
+   "date": "1934",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1934-09-09 (“Samuel T & Alma Bailey 1”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-henry-tholke-anna-godert",
+   "type": "spouse",
+   "a": "henry-tholke",
+   "b": "anna-godert",
+   "date": "1871",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1871-03-16 (“(or June 21) Henry & Anna Tholke”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-william-p-johnson-mary-godert",
+   "type": "spouse",
+   "a": "william-p-johnson",
+   "b": "mary-godert",
+   "date": "1869",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1869-06-06 (“William P & Mary (Godert) Johnson”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-william-h-godert-1888-mary-wife-godert",
+   "type": "spouse",
+   "a": "william-h-godert-1888",
+   "b": "mary-wife-godert",
+   "date": "1862",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1862-08-03 (“William & Mary Godert”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-barnet-falderman-nancy-falderman",
+   "type": "spouse",
+   "a": "barnet-falderman",
+   "b": "nancy-falderman",
+   "date": "1860",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1860-05-01 (“Barnet & Nancy Falderman”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-roy-t-swango-ethel-thackery",
+   "type": "spouse",
+   "a": "roy-t-swango",
+   "b": "ethel-thackery",
+   "date": "1915",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1915-08-18 (“Roy T & F Ethel Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-elmer-mcdermott-margaret-swango",
+   "type": "spouse",
+   "a": "elmer-mcdermott",
+   "b": "margaret-swango",
+   "date": "1921",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1921-08-28 (“Elmer S. Margaret McDermott”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-allen-chitwood-faye-chitwood",
+   "type": "spouse",
+   "a": "allen-chitwood",
+   "b": "faye-chitwood",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1938-04-28 (“n. Allen & Faye (Swango) Chitwood”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-william-e-teke-wilhelmina-teke",
+   "type": "spouse",
+   "a": "william-e-teke",
+   "b": "wilhelmina-teke",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1879-04-21 (“n. William & Wilhelmina Teke”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-louis-veit-margaret-transier",
+   "type": "spouse",
+   "a": "louis-veit",
+   "b": "margaret-transier",
+   "date": "1877",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1877-05-11 (“Louis & Margaret (Transier) Veit”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-dale-baker-luella-baker",
+   "type": "spouse",
+   "a": "dale-baker",
+   "b": "luella-baker",
+   "date": "1933",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1933-12-28 (“C Dale & A Luella Baker”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-larry-gray-carol-gray",
+   "type": "spouse",
+   "a": "larry-gray",
+   "b": "carol-gray",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry. The bride’s identification with this person is an inference.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1966-06-10 (“Larry & Carol Gray”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-richard-herrold-ruth-herrold",
+   "type": "spouse",
+   "a": "richard-herrold",
+   "b": "ruth-herrold",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1984-03-29 (“n. Richard & Ruth Herrold”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-edward-f-tellas-florence-tellas",
+   "type": "spouse",
+   "a": "edward-f-tellas",
+   "b": "florence-tellas",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Couple named together in one calendar entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1928-08-28 (“n. Edward & Florence Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-garrett-falderman-weurigh",
+   "type": "spouse",
+   "a": "garrett-falderman",
+   "b": "weurigh",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Margaret Weurigh’s first marriage, per the book.",
+   "sources": [
+    {
+     "t": "Family book p.9, claim 'weurigh-origin' in app.js CLAIMS: “Margaret (Weurigh) Godert was born 14 Feb 1810 in 'Alsace-Lorraine, Germany,' raised Catholic, and first married Garrett Falderman, with whom she had a son, Barnet, in 1831.”"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-lewis-teke-helena",
+   "type": "spouse",
+   "a": "lewis-teke",
+   "b": "helena",
+   "date": "1842",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Married 1842, per the book.",
+   "sources": [
+    {
+     "t": "Family book p.3, claim 'lena' in app.js CLAIMS: “Lena Hunterman was born in Germany on 12 Sept 1818, married Lewis Teake in 1842 and Louis Veit in the 1850s, and died near Dillsboro on 8 Nov 1876. The papers called her the largest woman in Dearborn County, at about 350 pounds.”"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-louis-veit-helena",
+   "type": "spouse",
+   "a": "louis-veit",
+   "b": "helena",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Lena’s second marriage, in the 1850s, per the book.",
+   "sources": [
+    {
+     "t": "Family book p.3, claim 'lena' in app.js CLAIMS: “Lena Hunterman was born in Germany on 12 Sept 1818, married Lewis Teake in 1842 and Louis Veit in the 1850s, and died near Dillsboro on 8 Nov 1876. The papers called her the largest woman in Dearborn County, at about 350 pounds.”"
+    }
+   ]
+  },
+  {
+   "id": "rel-spouse-george-anglin-mae",
+   "type": "spouse",
+   "a": "george-anglin",
+   "b": "mae",
+   "date": "",
+   "confidence": "likely",
+   "statedInSource": true,
+   "verdict": "book",
+   "note": "Mae’s second marriage, after 1982, from her obituary as retold in the repo.",
+   "sources": [
+    {
+     "t": "app.js STORIES[mae] (retold from records/obituary): “Widowed in 1982, she remarried George Anglin”"
+    }
+   ]
+  },
+  {
+   "id": "rel-parent-suggested-john1-dora-tellas",
+   "type": "parent-suggested",
+   "a": "john1",
+   "b": "dora-tellas",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-john1-alice-tellas",
+   "type": "parent-suggested",
+   "a": "john1",
+   "b": "alice-tellas",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-john1-margaret-may-tellas",
+   "type": "parent-suggested",
+   "a": "john1",
+   "b": "margaret-may-tellas",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-john1-william-t-tellas",
+   "type": "parent-suggested",
+   "a": "john1",
+   "b": "william-t-tellas",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-henry-swango-1-henry-swango-2",
+   "type": "parent-suggested",
+   "a": "henry-swango-1",
+   "b": "henry-swango-2",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-henry-swango-1-margaret-swango",
+   "type": "parent-suggested",
+   "a": "henry-swango-1",
+   "b": "margaret-swango",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-samuel-bailey-1-samuel-bailey-2",
+   "type": "parent-suggested",
+   "a": "samuel-bailey-1",
+   "b": "samuel-bailey-2",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-charles-bailey-samuel-bailey-1",
+   "type": "parent-suggested",
+   "a": "charles-bailey",
+   "b": "samuel-bailey-1",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-charles-bailey-john-w-bailey",
+   "type": "parent-suggested",
+   "a": "charles-bailey",
+   "b": "john-w-bailey",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-elmer-mcdermott-betty-mcdermott",
+   "type": "parent-suggested",
+   "a": "elmer-mcdermott",
+   "b": "betty-mcdermott",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-lewis-teke-louis-h-teke",
+   "type": "parent-suggested",
+   "a": "lewis-teke",
+   "b": "louis-h-teke",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-louis-veit-george-veit",
+   "type": "parent-suggested",
+   "a": "louis-veit",
+   "b": "george-veit",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-w26999715-anna-godert",
+   "type": "parent-suggested",
+   "a": "w26999715",
+   "b": "anna-godert",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-w26999715-mary-godert",
+   "type": "parent-suggested",
+   "a": "w26999715",
+   "b": "mary-godert",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-w26999715-william-h-godert-1840",
+   "type": "parent-suggested",
+   "a": "w26999715",
+   "b": "william-h-godert-1840",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-w26999715-william-h-godert-1888",
+   "type": "parent-suggested",
+   "a": "w26999715",
+   "b": "william-h-godert-1888",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  },
+  {
+   "id": "rel-parent-suggested-jfrank-ethel-thackery",
+   "type": "parent-suggested",
+   "a": "jfrank",
+   "b": "ethel-thackery",
+   "date": "",
+   "confidence": "uncertain",
+   "statedInSource": false,
+   "verdict": "open",
+   "note": "Suggested by surname, a “II” suffix or dates only. No passage in the repo states it, so it is NOT set in father/mother. Check against the book’s genealogy section before linking.",
+   "sources": []
+  }
+ ]
+}
