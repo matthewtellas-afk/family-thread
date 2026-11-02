@@ -1,0 +1,3054 @@
+{
+ "_about": "Fact-check notes in the CLAIMS style: one per added person, with source passage, verdict (CLAIMS vocabulary), confidence (confirmed / likely / uncertain) and any conflict. dedupe lists calendar entries matched to people already in the tree.",
+ "notes": [
+  {
+   "id": "add-jerry",
+   "people": [
+    "jerry"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Jeremiah \"Jerry\" Tellas to the tree (b. 1866) (d. 1944).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The book calls Ray Tellas the son of “John’s son Jerry,” and the Kansas story makes Jerry and Charlie brothers. Margaret Godert as mother is inferred from the 1864 marriage and his 1866 birth; no passage names her.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1866-01-05 (“Jeremiah Tellas”); died 1944-12-28 (“Jeremiah Tellas”)"
+    },
+    {
+     "t": "Family book p.51, claim 'racer' in app.js CLAIMS: “The racing Tellas was Ray Tellas (1911–1940), son of John's son Jerry. He was a Midwest dirt-track sprint star in the 'Black Tom' Model T and the Pitts Fronty Ford. He was killed on 11 August 1940 at Franklin, Indiana, in a crash with Eddie Zalucki and Jimmy Sampson.”"
+    },
+    {
+     "t": "Family book p.23, claim 'kansas' in app.js CLAIMS: “In the mid-1880s Jerry and Charlie were 'ordered out of Dearborn County' after some trouble and went to Kansas, where they harvested wheat around Topeka and Silver Lake and worked on the Chisholm Trail.”"
+    },
+    {
+     "t": "app.js CLIPPINGS[charles] (retold, not a real article): “Jerry Tellas has returned home from Kansas, where he and his brother Charles spent several seasons”"
+    }
+   ]
+  },
+  {
+   "id": "add-rosa-spangler",
+   "people": [
+    "rosa-spangler"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Rosa E. Spangler Tellas to the tree (b. 1868).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The calendar lists a Rosa E. (Spangler) Tellas born 1868 and a marriage of “Jeremiah & Rosa Tellas” in 1889. They are taken to be the same Rosa. No death date. Only the year is used: where the calendar overlaps people already verified in this tree, its day is often off by one or two.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1868-07-28 (“Rosa E (Spangler) Tellas”); married 1889-12-04 (“Jeremiah & Rosa Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-ray-tellas",
+   "people": [
+    "ray-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Raymond J. \"Ray\" Tellas to the tree (b. 1911) (d. 1940).",
+   "verdict": "conflict",
+   "confidence": "confirmed",
+   "note": "Ray, the dirt-track racer, son of Jerry. The racing-history source cited in the book claim confirms the August 1940 crash at Franklin. His mother is not named.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1911-01-24 (“Raymond J Tellas 1”); died 1940-08-03 (“Raymond J Tellas 1”); married 1930-11-07 (“Raymond J & Elizabeth Tellas 1”)"
+    },
+    {
+     "t": "Family book p.51, claim 'racer' in app.js CLAIMS: “The racing Tellas was Ray Tellas (1911–1940), son of John's son Jerry. He was a Midwest dirt-track sprint star in the 'Black Tom' Model T and the Pitts Fronty Ford. He was killed on 11 August 1940 at Franklin, Indiana, in a crash with Eddie Zalucki and Jimmy Sampson.”"
+    }
+   ],
+   "conflict": "The calendar puts his death on 3 August 1940. The book claim and the racing source say 11 August 1940. The calendar’s many “3 August” entries look like an extraction artifact."
+  },
+  {
+   "id": "add-elizabeth-ray",
+   "people": [
+    "elizabeth-ray"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Elizabeth Tellas (wife of Raymond J.) to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from the calendar’s 1930 marriage of “Raymond J & Elizabeth Tellas.” No maiden name or dates. She could be the Elizabeth V. Tellas born 1909, but nothing ties them together.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1930-11-07 (“Raymond J & Elizabeth Tellas 1”)"
+    }
+   ]
+  },
+  {
+   "id": "add-john2",
+   "people": [
+    "john2"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add John Thomas Tellas II to the tree (b. 1870) (d. 1946).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The book claims call him John I’s son: he wrote the family Bible note and trained race horses at the Indiana State Fairgrounds. Margaret as mother is inferred from the dates, not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1870-04-19 (“John T Tellas II”); died 1946-06-27 (“John T Tellas II”)"
+    },
+    {
+     "t": "Family book p.15, claim 'birth-1836' in app.js CLAIMS: “John was born 11 April 1836 in Hamilton County (Cincinnati), Ohio.”"
+    },
+    {
+     "t": "Family book p.18, claim 'farm' in app.js CLAIMS: “John and Margaret farmed 46 acres 2.5 miles south of Dillsboro. In 1884 they had 4 horses, 7 cattle and 8 hogs. John was Clay Township road supervisor in 1883 and a good horse trainer who taught his sons.”"
+    }
+   ]
+  },
+  {
+   "id": "add-sophia-link",
+   "people": [
+    "sophia-link"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Sophia Link Tellas to the tree (d. 1925).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Wife of John Thomas Tellas II. The calendar names “John & Sophia Tellas II” as parents of two infants and lists Sophia (Link) Tellas’s death in 1925.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1925-11-08 (“Sophia (Link) Tellas”); born 1903-01-03 (“inf of John & Sophia Tellas II”); born 1898-11-01 (“& d. inf of John & Sophia Tellas II”)"
+    }
+   ]
+  },
+  {
+   "id": "add-inf-john2-1898",
+   "people": [
+    "inf-john2-1898"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Infant of John & Sophia Tellas II (1898) to the tree (b. 1898) (d. 1898).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The calendar entry reads “& d. inf of John & Sophia Tellas II,” i.e. born and died 1898. The parents are named in the entry itself.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1898-11-01 (“& d. inf of John & Sophia Tellas II”)"
+    }
+   ]
+  },
+  {
+   "id": "add-inf-john2-1903",
+   "people": [
+    "inf-john2-1903"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Infant of John & Sophia Tellas II (1903) to the tree (b. 1903) (d. 1903).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Born and died January 1903, per the calendar. The parents are named in the entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1903-01-03 (“inf of John & Sophia Tellas II”); died 1903-01-08 (“inf of John & Sophia Tellas II”)"
+    }
+   ]
+  },
+  {
+   "id": "add-dora-tellas",
+   "people": [
+    "dora-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Dora E. Tellas Christie to the tree (b. 1872) (d. 1916).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born a Tellas in 1872, so probably a daughter of John I and Margaret, but no passage in this repo says so. Left unlinked. Her husband’s first name is not given.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1872-06-05 (“Dora E (Tellas) Christie”); died 1916-11-08 (“Dora E (Tellas) Christie”)"
+    }
+   ]
+  },
+  {
+   "id": "add-annie-tellas",
+   "people": [
+    "annie-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Anna \"Annie\" Tellas Falderman Bailey to the tree (b. 1875) (d. 1940).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The book calls her “John’s daughter Annie (Tellas) Falderman.” She was head nurse of an Indianapolis orphanage and nursed soldiers at Fort Benjamin Harrison. Her 1940 obituary is from Twentynine Palms, California. The calendar records her death as “Anna (Tellas) Bailey/Falderman.” Margaret as mother is inferred from the dates.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1875-05-02 (“Anna (Tellas) Falderman”); died 1940-09-21 (“Anna (Tellas) Bailey/Falderman”); died 1901-06-14 (“Frank & Anna Falderman”)"
+    },
+    {
+     "t": "Family book p.40, claim 'annie' in app.js CLAIMS: “John's daughter Annie (Tellas) Falderman was head nurse of an Indianapolis orphanage for 12 years and nursed soldiers at Fort Benjamin Harrison in World War I. She was barred from enlisting as an Army nurse because her son was a soldier.”"
+    }
+   ]
+  },
+  {
+   "id": "add-alice-tellas",
+   "people": [
+    "alice-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Alice Tellas Swango to the tree (b. 1878) (d. 1921).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born a Tellas in 1878 and married Henry E. Swango in 1892. Probably a daughter of John I and Margaret, but no passage in this repo says so. Left unlinked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1878-05-11 (“Alice (Tellas) Swango”); died 1921-02-15 (“Alice (Tellas) Swango”); married 1892-11-21 (“Henry & Alice (Tellas) Swango 1”)"
+    }
+   ],
+   "conflict": "A marriage in November 1892 would make her 14, if the 1878 birth year is right. One of the two calendar years may be wrong."
+  },
+  {
+   "id": "add-margaret-may-tellas",
+   "people": [
+    "margaret-may-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Margaret May Tellas to the tree (b. 1880) (d. 1881).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "The calendar has “Margaret M Tellas” born 1880 and “Margaret May Tellas” died 1881. They are taken to be one infant. She may be the child of John I and Margaret who “died as a baby” (STORIES[margodert]), but that is not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1880-08-03 (“Margaret M Tellas”); died 1881-06-26 (“Margaret May Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-william-t-tellas",
+   "people": [
+    "william-t-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add William T. Tellas to the tree (b. 1883) (d. 1942).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1883, died 1942, married Anna Pieper in 1902. Probably a son of John I and Margaret, but not stated. Left unlinked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1883-02-11 (“William T Tellas”); died 1942-03-04 (“William T Tellas”); married 1902-04-16 (“William & Anna (Pieper) Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-anna-pieper",
+   "people": [
+    "anna-pieper"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Anna L. Pieper Tellas to the tree (d. 1934).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The calendar lists the 1902 marriage of “William & Anna (Pieper) Tellas” and her death in 1934.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1934-07-22 (“Anna L (Pieper) Tellas”); married 1902-04-16 (“William & Anna (Pieper) Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-ida-f-tellas",
+   "people": [
+    "ida-f-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Ida F. Tellas to the tree (b. 1884).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Only a birth entry (1884). This calendar often lists women under married names, so she could be a daughter born a Tellas or a wife. Unplaced.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1884-01-27 (“Ida F Tellas”)"
+    }
+   ],
+   "conflict": "If she were a ninth child of John I and Margaret, that would contradict “raised eight children” in STORIES[margodert]."
+  },
+  {
+   "id": "add-benjamin-tellas",
+   "people": [
+    "benjamin-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Benjamin F. Tellas to the tree (b. 1893) (d. 1906).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Two entries: “Benjamin F Tellas” born 1893 and “Benjamin Tellas” died 1906. They are merged here as one boy who died at about 12. That merge is uncertain. Unplaced.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1893-06-25 (“Benjamin F Tellas”); died 1906-03-04 (“Benjamin Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-john-louis-tellas",
+   "people": [
+    "john-louis-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add John Louis Tellas to the tree (b. 1892) (d. 1969).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The book names “John L.” as one of Charlie and Sarah’s three World War I sons. Married Anna in 1920 and Mabel in 1930, per the calendar.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1892-03-07 (“John Louis Tellas”); died 1969-04-28 (“John Louis Tellas”); married 1920-05-14 (“John Louis & Anna Tellas”); married 1930-09-28 (“John Louis & Mabel Tellas”)"
+    },
+    {
+     "t": "Family book p.28, claim 'charlie-sarah' in app.js CLAIMS: “Charlie and Sarah Chillas married on 3 June 1891 near Dillsboro, lived in Indianapolis, then farmed and ran a sawmill in Dearborn County before moving to a farm near New Point in 1914. They sent three sons to World War I and celebrated their 50th anniversary on 1 June 1941.”"
+    }
+   ]
+  },
+  {
+   "id": "add-anna-herbert",
+   "people": [
+    "anna-herbert"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Anna F. Herbert Tellas to the tree (d. 1928).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Died 1928. Possibly the Anna who married John Louis Tellas in 1920, but the calendar gives that bride no maiden name.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1928-03-28 (“Anna F (Herbert) Tellas”); married 1920-05-14 (“John Louis & Anna Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-mabel-black",
+   "people": [
+    "mabel-black"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Mabel Black Tellas to the tree (b. 1904) (d. 1985).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "“Mabel Tellas” born 1904 and “Mabel (Black) Tellas” died 1985 are merged as one person, the Mabel who married John Louis Tellas in 1930. The calendar lists women under their married names, which is what supports the merge. Both the merge and the marriage link are uncertain.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1904-03-21 (“Mabel Tellas”); died 1985-11-04 (“Mabel (Black) Tellas”); married 1930-09-28 (“John Louis & Mabel Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-thomas-f-tellas",
+   "people": [
+    "thomas-f-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Thomas F. Tellas to the tree (b. 1894).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "One of Charlie and Sarah’s three World War I sons, per the book. The calendar entry “Thomas F & Clara E Tellas” (1921) is marked as a death, but a couple’s name points to a marriage. No death date found.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1894-12-05 (“Thomas F Tellas”); died 1921-06-08 (“Thomas F & Clara E Tellas”)"
+    },
+    {
+     "t": "Family book p.28, claim 'charlie-sarah' in app.js CLAIMS: “Charlie and Sarah Chillas married on 3 June 1891 near Dillsboro, lived in Indianapolis, then farmed and ran a sawmill in Dearborn County before moving to a farm near New Point in 1914. They sent three sons to World War I and celebrated their 50th anniversary on 1 June 1941.”"
+    }
+   ]
+  },
+  {
+   "id": "add-clara-koebbe",
+   "people": [
+    "clara-koebbe"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Clara E. Koebbe Tellas to the tree (b. 1900) (d. 1983).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Probably the Clara E. of “Thomas F & Clara E Tellas” (1921). Born 1900, died 1983.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1900-06-05 (“Clara E (Koebbe) Tellas”); died 1983-03-26 (“Clara E (Koebbe) Tellas”); died 1921-06-08 (“Thomas F & Clara E Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-frank-garrett-tellas",
+   "people": [
+    "frank-garrett-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Frank Garrett Tellas to the tree (b. 1903).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The book names Frank Garrett Tellas as Charlie and Sarah’s son and the grandfather of the other Matthew Tellas. The calendar lists “Frank G Tellas” born 1903 and “Frank & Elizabeth Tellas” married 1925.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1903-04-19 (“Frank G Tellas”); married 1925-08-03 (“Frank & Elizabeth Tellas”)"
+    },
+    {
+     "t": "Family book p.76, claim 'other-matthew' in app.js CLAIMS: “The book lists a Matthew Tellas, son of Charles Frank Tellas and grandson of Frank Garrett Tellas, Charlie and Sarah's son.”"
+    }
+   ]
+  },
+  {
+   "id": "add-elizabeth-frank",
+   "people": [
+    "elizabeth-frank"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Elizabeth Tellas (wife of Frank G.) to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from the 1925 marriage entry. No maiden name or dates.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1925-08-03 (“Frank & Elizabeth Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-anna-tellas-thackery",
+   "people": [
+    "anna-tellas-thackery"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Anna Tellas Thackery to the tree (b. 1900) (d. 1982).",
+   "verdict": "consistent",
+   "confidence": "likely",
+   "note": "William McKinley’s sister Anna, who married Walter Thackery in April 1921. The calendar’s “Anna Thackery” born 1900 (listed under her married name) and “Anna (Tellas) Thackery” died 1982 are merged.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1900-03-07 (“Anna Thackery”); died 1982-02-15 (“Anna (Tellas) Thackery”); married 1921-04-24 (“Walter & Anna (Tellas) Thackery”)"
+    },
+    {
+     "t": "Family book p.64, claim 'wmck' in app.js CLAIMS: “William McKinley Tellas was a World War I Army veteran, millwright and farmer. He married Allie Mae Thackery at Greensburg on 22 June 1921. Two months earlier his sister Anna had married Allie's brother Walter Thackery.”"
+    },
+    {
+     "t": "app.js STORIES[wmck] (retold from records/obituary): “In 1921 he married Allie Mae Thackery, two months after his sister Anna married Allie’s brother Walter.”"
+    }
+   ]
+  },
+  {
+   "id": "add-walter-thackery",
+   "people": [
+    "walter-thackery"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Walter L. Thackery to the tree (b. 1894) (d. 1980).",
+   "verdict": "consistent",
+   "confidence": "likely",
+   "note": "The book claim’s note says Allie and Walter are both children of John Franklin Thackery and Ida Mae Price. That makes the Tellas and Thackery families related twice over.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1894-12-08 (“Walter L Thackery”); died 1980-06-05 (“Walter L Thackery”); married 1921-04-24 (“Walter & Anna (Tellas) Thackery”)"
+    },
+    {
+     "t": "Family book p.64, claim 'wmck' in app.js CLAIMS: “William McKinley Tellas was a World War I Army veteran, millwright and farmer. He married Allie Mae Thackery at Greensburg on 22 June 1921. Two months earlier his sister Anna had married Allie's brother Walter Thackery.”"
+    }
+   ]
+  },
+  {
+   "id": "add-inf-wmck-1921",
+   "people": [
+    "inf-wmck-1921"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Infant of William & Allie (Thackery) Tellas (1921) to the tree (b. 1921).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "The calendar entry reads “n. William & Allie (Thackery) Tellas,” a birth in June 1921. The “n.” is probably a garbled “inf.” The parents are named in the entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1921-06-21 (“n. William & A l l i e (Thackery) Tellas”)"
+    }
+   ],
+   "conflict": "A June 1921 birth comes two days before the 22 June 1921 wedding given in the book claim ‘wmck’. Allie is said to have raised six children, so this may be a seventh who died young, or a date error."
+  },
+  {
+   "id": "add-shirley-ash",
+   "people": [
+    "shirley-ash"
+   ],
+   "topic": "Doug’s siblings",
+   "page": null,
+   "claim": "Add Shirley M. Tellas Ash to the tree (b. 1926).",
+   "verdict": "consistent",
+   "confidence": "confirmed",
+   "note": "STORIES[allie] and Doug’s obituary (“youngest of six”) name Shirley as a child of William McKinley and Allie. The birth year comes from a calendar entry listed under the married name, so matching the two is the inference. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1926-04-18 (“Shirley M Ash”)"
+    },
+    {
+     "t": "app.js STORIES[allie] (retold from records/obituary): “raised six children: Marjorie, Mildred, Shirley, Betty, William and Douglas”"
+    },
+    {
+     "t": "Family book p.73, claim 'doug' in app.js CLAIMS: “Douglas Russell Tellas, an Army veteran, was born in Charlotte, Michigan, on 24 June 1943, the youngest of six children of William McKinley and Allie, and married Janet Sue Clark at Charlotte.”"
+    },
+    {
+     "t": "app.js CLIPPINGS[wmck] (retold, not a real article): “Of their six children Shirley was the third… Shirley Tellas Ash farmed, rose from teller to bank branch manager”"
+    }
+   ],
+   "conflict": "STORIES[allie] lists Marjorie first, but the calendar puts Mildred (1924) and Shirley (1926) before Marjorie (1927). CLIPPINGS[wmck] calls Shirley the third child, which fits only if the 1921 infant is counted.",
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-mildred-boyles",
+   "people": [
+    "mildred-boyles"
+   ],
+   "topic": "Doug’s siblings",
+   "page": null,
+   "claim": "Add Mildred Tellas Boyles to the tree (b. 1924).",
+   "verdict": "consistent",
+   "confidence": "likely",
+   "note": "STORIES[allie] and Doug’s obituary (“youngest of six”) name Mildred as a child of William McKinley and Allie. The birth year comes from a calendar entry listed under the married name, so matching the two is the inference. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1924-03-04 (“Mildred Boyles”)"
+    },
+    {
+     "t": "app.js STORIES[allie] (retold from records/obituary): “raised six children: Marjorie, Mildred, Shirley, Betty, William and Douglas”"
+    },
+    {
+     "t": "Family book p.73, claim 'doug' in app.js CLAIMS: “Douglas Russell Tellas, an Army veteran, was born in Charlotte, Michigan, on 24 June 1943, the youngest of six children of William McKinley and Allie, and married Janet Sue Clark at Charlotte.”"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-marjorie-williams",
+   "people": [
+    "marjorie-williams"
+   ],
+   "topic": "Doug’s siblings",
+   "page": null,
+   "claim": "Add Marjorie Tellas Williams to the tree (b. 1927).",
+   "verdict": "consistent",
+   "confidence": "likely",
+   "note": "STORIES[allie] and Doug’s obituary (“youngest of six”) name Marjorie as a child of William McKinley and Allie. The birth year comes from a calendar entry listed under the married name, so matching the two is the inference. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1927-06-03 (“Marjorie Williams”)"
+    },
+    {
+     "t": "app.js STORIES[allie] (retold from records/obituary): “raised six children: Marjorie, Mildred, Shirley, Betty, William and Douglas”"
+    },
+    {
+     "t": "Family book p.73, claim 'doug' in app.js CLAIMS: “Douglas Russell Tellas, an Army veteran, was born in Charlotte, Michigan, on 24 June 1943, the youngest of six children of William McKinley and Allie, and married Janet Sue Clark at Charlotte.”"
+    }
+   ],
+   "conflict": "STORIES[allie] lists Marjorie first, but the calendar puts Mildred (1924) and Shirley (1926) before Marjorie (1927). CLIPPINGS[wmck] calls Shirley the third child, which fits only if the 1921 infant is counted.",
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-betty-buell",
+   "people": [
+    "betty-buell"
+   ],
+   "topic": "Doug’s siblings",
+   "page": null,
+   "claim": "Add Betty Tellas Buell to the tree (b. 1931).",
+   "verdict": "consistent",
+   "confidence": "likely",
+   "note": "STORIES[allie] and Doug’s obituary (“youngest of six”) name Betty as a child of William McKinley and Allie. The birth year comes from a calendar entry listed under the married name, so matching the two is the inference. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1931-03-02 (“Betty Buell”)"
+    },
+    {
+     "t": "app.js STORIES[allie] (retold from records/obituary): “raised six children: Marjorie, Mildred, Shirley, Betty, William and Douglas”"
+    },
+    {
+     "t": "Family book p.73, claim 'doug' in app.js CLAIMS: “Douglas Russell Tellas, an Army veteran, was born in Charlotte, Michigan, on 24 June 1943, the youngest of six children of William McKinley and Allie, and married Janet Sue Clark at Charlotte.”"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-william-a-tellas",
+   "people": [
+    "william-a-tellas"
+   ],
+   "topic": "Doug’s siblings",
+   "page": null,
+   "claim": "Add William A. Tellas to the tree (b. 1935).",
+   "verdict": "consistent",
+   "confidence": "likely",
+   "note": "STORIES[allie] and Doug’s obituary (“youngest of six”) name William as a child of William McKinley and Allie. The birth year comes from a calendar entry listed under the married name, so matching the two is the inference. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1935-11-24 (“William A Tellas”)"
+    },
+    {
+     "t": "app.js STORIES[allie] (retold from records/obituary): “raised six children: Marjorie, Mildred, Shirley, Betty, William and Douglas”"
+    },
+    {
+     "t": "Family book p.73, claim 'doug' in app.js CLAIMS: “Douglas Russell Tellas, an Army veteran, was born in Charlotte, Michigan, on 24 June 1943, the youngest of six children of William McKinley and Allie, and married Janet Sue Clark at Charlotte.”"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-vernon-boyles",
+   "people": [
+    "vernon-boyles"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Vernon Boyles to the tree (b. 1921).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Shares the married surname of Mildred. Probably her husband, but the calendar extract does not say so. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1921-03-02 (“Vernon Boyles”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-clare-ash",
+   "people": [
+    "clare-ash"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Clare Ash II to the tree (b. 1925).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Shares the married surname of Shirley. Probably her husband, but the calendar extract does not say so. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1925-06-05 (“Clare Ash II”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-richard-buell",
+   "people": [
+    "richard-buell"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add C. Richard Buell to the tree (b. 1928).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Shares the married surname of Betty. Probably her husband, but the calendar extract does not say so. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1928-12-02 (“C Richard Buell”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-earl-williams",
+   "people": [
+    "earl-williams"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add C. Earl Williams to the tree (b. 1922) (d. 1990).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Shares the married surname of Marjorie (Tellas) Williams. Probably her husband, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1922-11-18 (“C Earl Williams”); died 1990-04-24 (“C Earl Williams”)"
+    }
+   ]
+  },
+  {
+   "id": "add-harry-w-tellas",
+   "people": [
+    "harry-w-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Harry W. Tellas to the tree (b. 1908).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1908-01-09 (“Harry W Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-donald-l-tellas",
+   "people": [
+    "donald-l-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Donald L. Tellas to the tree (b. 1932).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1932-01-11 (“Donald L Tellas”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-clyde-tellas",
+   "people": [
+    "clyde-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Clyde Tellas to the tree (d. 1990).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1990-01-24 (“Clyde Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-c-arthur-tellas",
+   "people": [
+    "c-arthur-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add C. Arthur Tellas to the tree (b. 1922) (d. 1977).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1922-01-28 (“C Arthur Tellas”); died 1977-10-24 (“C Arthur Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-wanda-hicks",
+   "people": [
+    "wanda-hicks"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Wanda Hicks Tellas to the tree (b. 1923).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1923-02-11 (“Wanda (Hicks) Tellas”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-virginia-bernabe",
+   "people": [
+    "virginia-bernabe"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Virginia Bernabe Tellas to the tree (b. 1923).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1923-02-17 (“Virginia (Bernabe) Tellas”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-martha-h-tellas",
+   "people": [
+    "martha-h-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Martha H. Tellas to the tree (b. 1931).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1931-02-21 (“Martha H Tellas”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-elizabeth-v-tellas",
+   "people": [
+    "elizabeth-v-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Elizabeth V. Tellas to the tree (b. 1909).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1909-03-26 (“Elizabeth V Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-dorothy-m-tellas",
+   "people": [
+    "dorothy-m-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Dorothy M. Tellas to the tree (b. 1915).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. The calendar also has a marriage entry for “Dorothy M Tellas” dated 1918, three years after her 1915 birth, so one of the two is wrong.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1915-06-28 (“Dorothy M Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-marie-tellas",
+   "people": [
+    "marie-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Marie Tellas to the tree (b. 1919).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1919-06-05 (“Marie Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-ida-henderson",
+   "people": [
+    "ida-henderson"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Ida Henderson Tellas to the tree (d. 1966).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1966-06-05 (“Ida (Henderson) Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-grace-tellas",
+   "people": [
+    "grace-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Grace Tellas to the tree (d. 1938).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1938-06-01 (“- Grace Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-elmer-j-tellas",
+   "people": [
+    "elmer-j-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Elmer J. Tellas to the tree (b. 1910) (d. 1966).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1910-12-23 (“Elmer J Tellas”); died 1966-06-08 (“Elmer J Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-catherine-l-tellas",
+   "people": [
+    "catherine-l-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Catherine L. Tellas to the tree (b. 1910).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1910-08-03 (“Catherine L Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-robert-f-tellas",
+   "people": [
+    "robert-f-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Robert F. Tellas to the tree (b. 1926).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1926-09-04 (“Robert F Tellas”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-robert-g-tellas",
+   "people": [
+    "robert-g-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Robert G. Tellas to the tree (d. 1984).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1984-07-27 (“Robert G Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-myrna-m-tellas",
+   "people": [
+    "myrna-m-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Myrna M. Tellas to the tree (b. 1929).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1929-10-20 (“Myrna M Tellas”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-edward-f-tellas",
+   "people": [
+    "edward-f-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Edward F. Tellas to the tree (d. 1986).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1986-09-13 (“Edward F Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-florence-tellas",
+   "people": [
+    "florence-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Florence Tellas to the tree (d. 1989).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1989-05-14 (“Florence Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-zella-ewell",
+   "people": [
+    "zella-ewell"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Zella Ewell Tellas Jordan to the tree (b. 1921).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. The “Tellas/Jordan” form suggests she married twice. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1921-08-24 (“Zella (Ewell) Tellas/Jordan”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-naomi-tellas-jones",
+   "people": [
+    "naomi-tellas-jones"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Naomi Tellas Jones to the tree (b. 1934).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Tellas name in the book’s calendar with no parents or spouse given in the repo’s copy of the book data. Unplaced until the book’s genealogy section is checked. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1934-06-13 (“Naomi (Tellas) Jones”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-inf-edward-florence",
+   "people": [
+    "inf-edward-florence"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Infant of Edward & Florence Tellas (1928) to the tree (b. 1928).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "The calendar entry reads “n. Edward & Florence Tellas,” a 1928 birth. The “n.” is probably a garbled “inf.”",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1928-08-28 (“n. Edward & Florence Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-elizabeth-hall",
+   "people": [
+    "elizabeth-hall"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Elizabeth Hall Tellas to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Only a 1914 marriage entry, with no husband named.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1914-06-14 (“Elizabeth (Hall) Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-george-f-tellas",
+   "people": [
+    "george-f-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add George F. Tellas to the tree (b. 1896) (d. 1959).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born October 1896, died 1959, married Clara in 1920. Not placed.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1896-10-05 (“George F Tellas”); died 1959-08-03 (“George F Tellas”); married 1920-05-02 (“George & Clara Tellas”)"
+    }
+   ],
+   "conflict": "He cannot be Charlie and Sarah’s son: William McKinley was born to them on 1 January 1897, three months after George’s October 1896 birth. He may be a son of Jerry or of John II."
+  },
+  {
+   "id": "add-clara-wolsiffer",
+   "people": [
+    "clara-wolsiffer"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Clara P. Wolsiffer Tellas to the tree (b. 1891) (d. 1969).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Probably the Clara of “George & Clara Tellas” (1920). The calendar gives that bride no maiden name.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1891-08-03 (“Clara P (Wolsiffer) Tellas”); died 1969-10-04 (“Clara P (Wolsiffer) Tellas”); married 1920-05-02 (“George & Clara Tellas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-matthew-tellas-other",
+   "people": [
+    "matthew-tellas-other"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Matthew Tellas (son of Charles Frank) to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The “other Matthew Tellas” of book entry 1263 is Matt’s second cousin once removed. He is living, so his name only.",
+   "sources": [
+    {
+     "t": "Family book p.76, claim 'other-matthew' in app.js CLAIMS: “The book lists a Matthew Tellas, son of Charles Frank Tellas and grandson of Frank Garrett Tellas, Charlie and Sarah's son.”"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-charles-frank-tellas",
+   "people": [
+    "charles-frank-tellas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Charles Frank Tellas to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Son of Frank Garrett Tellas, per book entry 1263. Presumed living, so his name only. The CLAIMS note links him only tentatively (“probably”) to a 1990 patent. That is not repeated here.",
+   "sources": [
+    {
+     "t": "Family book p.76, claim 'other-matthew' in app.js CLAIMS: “The book lists a Matthew Tellas, son of Charles Frank Tellas and grandson of Frank Garrett Tellas, Charlie and Sarah's son.”"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-johnny-chillas",
+   "people": [
+    "johnny-chillas"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add John \"Johnny\" Chillas to the tree (d. 1884).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Sarah’s brother, killed in 1884 when a gun he was loading went off. Charlie Tellas witnessed it and wrote an account for the sheriff. His parents are taken from Sarah’s record, since he is called her brother. His birth year is not given.",
+   "sources": [
+    {
+     "t": "app.js STORIES[sarah] (retold from records/obituary): “Her brother Johnny was killed in 1884 by a gun accident her future husband witnessed.”"
+    },
+    {
+     "t": "Family book p.23, claim 'kansas' in app.js CLAIMS: “In the mid-1880s Jerry and Charlie were 'ordered out of Dearborn County' after some trouble and went to Kansas, where they harvested wheat around Topeka and Silver Lake and worked on the Chisholm Trail.”"
+    }
+   ]
+  },
+  {
+   "id": "add-fred-godert",
+   "people": [
+    "fred-godert"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add J. Frederich \"Fred\" Godert to the tree (d. 1862).",
+   "verdict": "conflict",
+   "confidence": "likely",
+   "note": "Margaret Godert’s brother, of Co. F, 37th Indiana. Unmarried.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1862-12-28 (“J Frederich Godert”)"
+    },
+    {
+     "t": "Family book p.11, claim 'godert-brothers' in app.js CLAIMS: “Margaret's brothers Fred and George Godert served in the same company as John. Fred was killed at Stones River on 31 Dec 1862 and George at Pumpkinvine Creek, Georgia, on 27 May 1864. Neither body was recovered.”"
+    },
+    {
+     "t": "app.js CLIPPINGS[Godert-3] (retold, not a real article): “Fred Godert, the family records say, was killed at Stones River on the last day of 1862”"
+    }
+   ],
+   "conflict": "The calendar dates his death 28 December 1862. The book claim says 31 December 1862, the first day of Stones River. His death there rests on the book alone; it is not confirmed online."
+  },
+  {
+   "id": "add-george-godert",
+   "people": [
+    "george-godert"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add John George Godert to the tree (d. 1864-05-27).",
+   "verdict": "confirmed",
+   "confidence": "confirmed",
+   "note": "Margaret’s brother George, Co. F, 37th Indiana. He was killed near Dallas, Georgia (Pumpkinvine Creek), on 27 May 1864. The full date is used because the Indiana Adjutant General report confirms it independently. That report lists him as “John G. Godert, recruit.”",
+   "sources": [
+    {
+     "t": "Family book p.11, claim 'godert-brothers' in app.js CLAIMS: “Margaret's brothers Fred and George Godert served in the same company as John. Fred was killed at Stones River on 31 Dec 1862 and George at Pumpkinvine Creek, Georgia, on 27 May 1864. Neither body was recovered.”"
+    }
+   ]
+  },
+  {
+   "id": "add-anna-godert",
+   "people": [
+    "anna-godert"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Anna Godert Tholke to the tree (d. 1875).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born a Godert; married Henry Tholke in 1871 (the entry adds “or June 21”); died 1875. Probably one of Johann and Margaret’s nine children, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1875-02-07 (“Anna (Godert) Tholke”); married 1871-03-16 (“(or June 21) Henry & Anna Tholke”)"
+    }
+   ]
+  },
+  {
+   "id": "add-henry-tholke",
+   "people": [
+    "henry-tholke"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Henry Tholke to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Husband of Anna Godert, married 1871 per the calendar.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1871-03-16 (“(or June 21) Henry & Anna Tholke”)"
+    }
+   ]
+  },
+  {
+   "id": "add-mary-godert",
+   "people": [
+    "mary-godert"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Mary Godert Johnson to the tree (d. 1921).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born a Godert; married William P. Johnson; died 1921. Probably a daughter of Johann and Margaret, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1921-01-08 (“Mary (Godert) Johnson”); married 1849-06-06 (“Mary (Godert) Johnson”); married 1869-06-06 (“William P & Mary (Godert) Johnson”)"
+    }
+   ],
+   "conflict": "The calendar has two entries for her marked as marriages, one in 1849 and one in 1869 (“William P & Mary (Godert) Johnson”). The 1849 entry carries her name alone, so it is probably her birth."
+  },
+  {
+   "id": "add-william-p-johnson",
+   "people": [
+    "william-p-johnson"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add William P. Johnson to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Husband of Mary Godert, married 1869.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1869-06-06 (“William P & Mary (Godert) Johnson”)"
+    }
+   ]
+  },
+  {
+   "id": "add-william-h-godert-1840",
+   "people": [
+    "william-h-godert-1840"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add William H. Godert (d. 1840) to the tree (d. 1840).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A William H. Godert who died in 1840, probably a child of Johann and Margaret, who married in 1835. Not stated. A second William H. Godert died in 1888, which fits a family reusing a dead child’s name.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1840-06-10 (“William H Godert”)"
+    }
+   ]
+  },
+  {
+   "id": "add-william-h-godert-1888",
+   "people": [
+    "william-h-godert-1888"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add William H. Godert (d. 1888) to the tree (d. 1888).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Died 1888. Probably the William of “William & Mary Godert,” married 1862. Probably a son of Johann and Margaret, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1888-08-23 (“William H Godert”); married 1862-08-03 (“William & Mary Godert”)"
+    }
+   ]
+  },
+  {
+   "id": "add-mary-wife-godert",
+   "people": [
+    "mary-wife-godert"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Mary Godert (wife of William) to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from the 1862 marriage entry “William & Mary Godert.”",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1862-08-03 (“William & Mary Godert”)"
+    }
+   ]
+  },
+  {
+   "id": "add-garrett-falderman",
+   "people": [
+    "garrett-falderman"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Garrett Falderman to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Margaret Weurigh’s first husband. His fate is unknown.",
+   "sources": [
+    {
+     "t": "Family book p.9, claim 'weurigh-origin' in app.js CLAIMS: “Margaret (Weurigh) Godert was born 14 Feb 1810 in 'Alsace-Lorraine, Germany,' raised Catholic, and first married Garrett Falderman, with whom she had a son, Barnet, in 1831.”"
+    },
+    {
+     "t": "app.js STORIES[weurigh] (retold from records/obituary): “She first married Garrett Falderman, and they had a son, Barnet, in 1831… never saw Garrett again.”"
+    }
+   ]
+  },
+  {
+   "id": "add-barnet-falderman",
+   "people": [
+    "barnet-falderman"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Barnet H. Falderman to the tree (b. 1831) (d. 1901).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Margaret Weurigh’s son by Garrett Falderman, born 1831, per the book. The calendar’s “Barnet fl Falderman” (born 1831, OCR noise) and “Barnet H Falderman” (died 1901) are merged. He married Nancy in 1860.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1831-08-21 (“Barnet fl Falderman”); died 1901-11-24 (“Barnet H Falderman”); married 1860-05-01 (“Barnet & Nancy Falderman”)"
+    },
+    {
+     "t": "Family book p.9, claim 'weurigh-origin' in app.js CLAIMS: “Margaret (Weurigh) Godert was born 14 Feb 1810 in 'Alsace-Lorraine, Germany,' raised Catholic, and first married Garrett Falderman, with whom she had a son, Barnet, in 1831.”"
+    }
+   ]
+  },
+  {
+   "id": "add-nancy-falderman",
+   "people": [
+    "nancy-falderman"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Nancy Falderman to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Wife of Barnet Falderman, married 1860. No maiden name.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1860-05-01 (“Barnet & Nancy Falderman”)"
+    }
+   ]
+  },
+  {
+   "id": "add-frank-g-falderman",
+   "people": [
+    "frank-g-falderman"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Frank G. Falderman to the tree (b. 1868) (d. 1915).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1868, died 1915. Probably Annie Tellas’s husband: the calendar’s “Frank & Anna Falderman” (1901) entry is marked as a death but is a couple, so most likely a marriage. Possibly Barnet’s son, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1868-10-24 (“Frank G Falderman”); died 1915-12-28 (“Frank G Falderman”); died 1901-06-14 (“Frank & Anna Falderman”)"
+    }
+   ]
+  },
+  {
+   "id": "add-charles-bailey",
+   "people": [
+    "charles-bailey"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Charles Bailey to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "From the 1893 marriage “Charles & Anna Bailey.” The bride may be Annie Tellas, whose death is recorded as “Anna (Tellas) Bailey/Falderman,” but she would have been 17. Unconfirmed.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1893-01-01 (“Charles & Anna Bailey”)"
+    }
+   ]
+  },
+  {
+   "id": "add-samuel-bailey-1",
+   "people": [
+    "samuel-bailey-1"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Samuel T. Bailey I to the tree (b. 1894) (d. 1963).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1894, died 1963. Married Anne Ward in 1917 and Alma in 1934. Probably a son of Charles and Anna Bailey (and so possibly the soldier son for whom Annie Tellas was barred from Army nursing), but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1894-03-17 (“Samuel T Bailey 1”); died 1963-07-28 (“Samuel T Bailey 1”); married 1917-08-15 (“Samuel T & Anne Bailey 1”); married 1934-09-09 (“Samuel T & Alma Bailey 1”)"
+    }
+   ]
+  },
+  {
+   "id": "add-anne-ward",
+   "people": [
+    "anne-ward"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Anne Ward Bailey to the tree (b. 1891) (d. 1932).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Wife of Samuel T. Bailey I, married 1917.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1891-01-02 (“Anne (Ward) Bailey”); died 1932-10-09 (“Anne (Ward) Bailey”); married 1917-08-15 (“Samuel T & Anne Bailey 1”)"
+    }
+   ]
+  },
+  {
+   "id": "add-alma-bailey",
+   "people": [
+    "alma-bailey"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Alma Bailey to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Second wife of Samuel T. Bailey I, married 1934. No maiden name or dates.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1934-09-09 (“Samuel T & Alma Bailey 1”)"
+    }
+   ]
+  },
+  {
+   "id": "add-samuel-bailey-2",
+   "people": [
+    "samuel-bailey-2"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Samuel T. Bailey II to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Only a 1935 marriage entry. By the name, a son of Samuel T. I, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1935-06-03 (“Samuel T Bailey II”)"
+    }
+   ]
+  },
+  {
+   "id": "add-john-w-bailey",
+   "people": [
+    "john-w-bailey"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add John W. Bailey to the tree (b. 1896) (d. 1897).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1896, died 1897. Probably a child of Charles and Anna Bailey, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1896-01-13 (“John W Bailey”); died 1897-03-19 (“John W Bailey”)"
+    }
+   ]
+  },
+  {
+   "id": "add-henry-swango-1",
+   "people": [
+    "henry-swango-1"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Henry E. Swango I to the tree (b. 1875) (d. 1955).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Husband of Alice Tellas, married November 1892 per the calendar.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1875-03-17 (“Henry E Swango 1”); died 1955-05-08 (“Henry E Swango 1”); married 1892-11-21 (“Henry & Alice (Tellas) Swango 1”)"
+    }
+   ]
+  },
+  {
+   "id": "add-henry-swango-2",
+   "people": [
+    "henry-swango-2"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Henry E. Swango II to the tree (b. 1906) (d. 1908).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1906, died 1908. By the name, probably a son of Henry I and Alice, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1906-03-26 (“Henry E Swango II”); died 1908-09-11 (“Henry E Swango II”)"
+    }
+   ]
+  },
+  {
+   "id": "add-roy-t-swango",
+   "people": [
+    "roy-t-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Roy T. Swango to the tree (d. 1967).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given. Married “F Ethel” in 1915.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1967-06-01 (“Roy T Swango”); married 1915-08-18 (“Roy T & F Ethel Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-roy-c-swango",
+   "people": [
+    "roy-c-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Roy C. Swango to the tree (b. 1926) (d. 1967).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1926-02-21 (“Roy C Swango”); died 1967-06-24 (“Roy C Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-andrew-swango",
+   "people": [
+    "andrew-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Andrew I. Swango to the tree (d. 1917).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1917-03-26 (“Andrew I Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-paul-swango",
+   "people": [
+    "paul-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Paul C. Swango to the tree (b. 1909) (d. 1928).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1909-08-03 (“Paul C Swango”); died 1928-07-21 (“Paul C Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-phyllis-swango",
+   "people": [
+    "phyllis-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Phyllis Swango to the tree (d. 1938).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1938-06-08 (“Phyllis Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-dolores-swango",
+   "people": [
+    "dolores-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Dolores F. Swango to the tree (b. 1928).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1928-09-19 (“Dolores F Swango”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-vivian-swango",
+   "people": [
+    "vivian-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Vivian Swango to the tree (b. 1929).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1929-10-24 (“Vivian Swango”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-charles-i-swango",
+   "people": [
+    "charles-i-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Charles I. Swango to the tree (b. 1933).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "A Swango in the book’s calendar, most likely a descendant of Henry E. Swango I and Alice Tellas. No parents are given. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1933-12-05 (“Charles I Swango”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-ethel-thackery",
+   "people": [
+    "ethel-thackery"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add F. Ethel Thackery Swango to the tree (b. 1897).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born a Thackery in 1897; probably the “F Ethel” who married Roy T. Swango in 1915. She may be one of John Franklin Thackery and Ida Price’s six or more children, but that is not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1897-03-07 (“Ethel (Thackery) Swango”); married 1915-08-18 (“Roy T & F Ethel Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-charles-h-swango",
+   "people": [
+    "charles-h-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Charles H. Swango to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Only a 1933 marriage entry, “Charles H & Ethel Swango.” That Ethel need not be Ethel Thackery.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1933-05-06 (“Charles H & Ethel Swango”)"
+    }
+   ]
+  },
+  {
+   "id": "add-margaret-swango",
+   "people": [
+    "margaret-swango"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Margaret Swango McDermott to the tree (b. 1899).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born a Swango in 1899, so probably a daughter of Henry I and Alice, but not stated. Married Elmer J. McDermott in 1921; the entry reads “Elmer S. Margaret McDermott,” OCR for “&”.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1899-09-15 (“Margaret (Swango) McDermott”); married 1921-08-28 (“Elmer S. Margaret McDermott”)"
+    }
+   ]
+  },
+  {
+   "id": "add-elmer-mcdermott",
+   "people": [
+    "elmer-mcdermott"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Elmer J. McDermott to the tree (b. 1898) (d. 1983).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Husband of Margaret Swango, married 1921.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1898-04-24 (“Elmer J McDermott”); died 1983-02-23 (“Elmer J McDermott”); married 1921-08-28 (“Elmer S. Margaret McDermott”)"
+    }
+   ]
+  },
+  {
+   "id": "add-betty-mcdermott",
+   "people": [
+    "betty-mcdermott"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Betty McDermott to the tree (b. 1925) (d. 1927).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1925, died 1927. Probably a child of Elmer and Margaret, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1925-02-08 (“Betty McDermott”); died 1927-03-09 (“Betty McDermott”)"
+    }
+   ]
+  },
+  {
+   "id": "add-faye-chitwood",
+   "people": [
+    "faye-chitwood"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Faye E. Swango Chitwood to the tree (b. 1918).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Wife of Allen Chitwood. The entry “Allen & Faye (Swango) Chitwood” gives her maiden name. Born 1918; no death date found.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1918-03-22 (“Faye E Chitwood”); died 1938-04-28 (“n. Allen & Faye (Swango) Chitwood”)"
+    }
+   ]
+  },
+  {
+   "id": "add-allen-chitwood",
+   "people": [
+    "allen-chitwood"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Allen Chitwood to the tree (b. 1915) (d. 1985).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Husband of Faye Swango.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1915-11-07 (“Allen Chitwood”); died 1985-04-21 (“Allen Chitwood”); died 1938-04-28 (“n. Allen & Faye (Swango) Chitwood”)"
+    }
+   ]
+  },
+  {
+   "id": "add-inf-chitwood-1938",
+   "people": [
+    "inf-chitwood-1938"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Infant of Allen & Faye Chitwood (1938) to the tree (d. 1938).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "The calendar entry reads “n. Allen & Faye (Swango) Chitwood,” a death in 1938. The parents are named in the entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1938-04-28 (“n. Allen & Faye (Swango) Chitwood”)"
+    }
+   ]
+  },
+  {
+   "id": "add-lewis-teke",
+   "people": [
+    "lewis-teke"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Lewis Teake (Teke) to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Lena Hunterman’s first husband, married 1842. John I took his surname as a boy. What became of him after about 1853 is unknown.",
+   "sources": [
+    {
+     "t": "Family book p.15, claim 'name-origin' in app.js CLAIMS: “John Thomas Tellas I was born John Thomas Hunterman, the son of an unmarried Lena Hunterman, and took his stepfather Lewis Teake's surname as a boy before becoming Tellas.”"
+    },
+    {
+     "t": "Family book p.3, claim 'lena' in app.js CLAIMS: “Lena Hunterman was born in Germany on 12 Sept 1818, married Lewis Teake in 1842 and Louis Veit in the 1850s, and died near Dillsboro on 8 Nov 1876. The papers called her the largest woman in Dearborn County, at about 350 pounds.”"
+    }
+   ]
+  },
+  {
+   "id": "add-william-e-teke",
+   "people": [
+    "william-e-teke"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add William Everett Teke to the tree (d. 1898).",
+   "verdict": "conflict",
+   "confidence": "confirmed",
+   "note": "John I’s half-brother. The county officers list confirms he was Dearborn County sheriff, 1896–98. He died in office.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1898-06-18 (“William E Teke”); born 1879-04-21 (“n. William & Wilhelmina Teke”)"
+    },
+    {
+     "t": "Family book p.4, claim 'sheriff' in app.js CLAIMS: “John's half-brother William Everett Teke was elected Dearborn County sheriff in 1896 and died in office on 20 June 1898.”"
+    },
+    {
+     "t": "app.js STORIES[helena] (retold from records/obituary): “They had three more children, including William Teke, who became sheriff of Dearborn County.”"
+    }
+   ],
+   "conflict": "The calendar dates his death 18 June 1898. The book claim says 20 June 1898."
+  },
+  {
+   "id": "add-wilhelmina-teke",
+   "people": [
+    "wilhelmina-teke"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Wilhelmina Teke to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Wife of William E. Teke, named in the 1879 infant entry.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1879-04-21 (“n. William & Wilhelmina Teke”)"
+    }
+   ]
+  },
+  {
+   "id": "add-inf-teke-1879",
+   "people": [
+    "inf-teke-1879"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Infant of William & Wilhelmina Teke (1879) to the tree (b. 1879).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "The calendar entry reads “n. William & Wilhelmina Teke,” a birth in 1879. The “n.” is probably a garbled “inf.”",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1879-04-21 (“n. William & Wilhelmina Teke”)"
+    }
+   ]
+  },
+  {
+   "id": "add-louis-h-teke",
+   "people": [
+    "louis-h-teke"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Louis H. Teke to the tree (b. 1847) (d. 1922).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1847, after Lena married Lewis Teake in 1842, so he may be one of their three children, but not stated.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1847-06-13 (“Louis H Teke”); died 1922-10-09 (“Louis H Teke”)"
+    }
+   ]
+  },
+  {
+   "id": "add-margaret-luker",
+   "people": [
+    "margaret-luker"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Margaret M. Luker Teke to the tree (d. 1909).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Died 1909. Married into the Teke family; her husband is not named.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1909-11-21 (“Margaret M (Luker) Teke”)"
+    }
+   ]
+  },
+  {
+   "id": "add-louis-veit",
+   "people": [
+    "louis-veit"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Louis Veit to the tree (b. 1829) (d. 1907).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Lena’s second husband, a Hanover-born hotel and saloon keeper. After her death in 1876 he married Margaret Transier (1877).",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1829-05-14 (“Louis Veit”); died 1907-12-02 (“Louis Veit”); married 1877-05-11 (“Louis & Margaret (Transier) Veit”)"
+    },
+    {
+     "t": "app.js STORIES[helena] (retold from records/obituary): “she married Louis Veit, a Hanover-born hotel and saloon keeper”"
+    }
+   ]
+  },
+  {
+   "id": "add-margaret-transier",
+   "people": [
+    "margaret-transier"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add Margaret Transier Veit to the tree (d. 1928).",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Second wife of Louis Veit, married 1877.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1928-09-21 (“Margaret (Transier) Veit”); married 1877-05-11 (“Louis & Margaret (Transier) Veit”)"
+    }
+   ]
+  },
+  {
+   "id": "add-george-veit",
+   "people": [
+    "george-veit"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add George Veit to the tree (b. 1864) (d. 1866).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1864, died 1866. Probably a child of Louis Veit, but not stated. Lena would have been 45.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1864-03-27 (“George Veit”); died 1866-09-13 (“George Veit”)"
+    }
+   ]
+  },
+  {
+   "id": "add-eileen-anderson",
+   "people": [
+    "eileen-anderson"
+   ],
+   "topic": "Collateral",
+   "page": null,
+   "claim": "Add D. Eileen Anderson Thackery to the tree (b. 1929) (d. 1990).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Born 1929, died 1990. Married into the Thackery family; her husband is not named.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1929-01-20 (“D Eileen Thackery”); died 1990-01-24 (“D Eileen (Anderson) Thackery”)"
+    }
+   ]
+  },
+  {
+   "id": "add-janice-fratzke",
+   "people": [
+    "janice-fratzke"
+   ],
+   "topic": "Obituary relatives",
+   "page": null,
+   "claim": "Add Janice Fratzke to the tree.",
+   "verdict": "confirmed",
+   "confidence": "confirmed",
+   "note": "Bill’s sister, listed with her parents in the 1950 census. Her age then (7) implies a birth around 1942–43, but no birth date is entered. Her married name is not in the repo. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "app.js STORIES[wma] (retold from records/obituary): “Father of Bill and Janice.”"
+    },
+    {
+     "t": "app.js CENSUS[fratzke]: 1950 U.S. Census, Ross Township, ED 45-89, sheet 48, lines 25–28 (William A., Mae, Bill 10, Janice 7)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-george-anglin",
+   "people": [
+    "george-anglin"
+   ],
+   "topic": "Obituary relatives",
+   "page": null,
+   "claim": "Add George Anglin to the tree.",
+   "verdict": "book",
+   "confidence": "likely",
+   "note": "Mae Heick Fratzke’s second husband, from her obituary as retold in STORIES and CLIPPINGS. Whether he is living is unknown.",
+   "sources": [
+    {
+     "t": "app.js STORIES[mae] (retold from records/obituary): “Widowed in 1982, she remarried George Anglin”"
+    }
+   ]
+  },
+  {
+   "id": "add-luanna-newkirk",
+   "people": [
+    "luanna-newkirk"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Luanna Newkirk to the tree (b. 1933).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. Benjamin D. Newkirk (d. 1990) may be a parent; not stated. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1933-01-04 (“Luanna Newkirk”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-benjamin-newkirk",
+   "people": [
+    "benjamin-newkirk"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Benjamin D. Newkirk to the tree (d. 1990).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1990-02-17 (“Benjamin D Newkirk”)"
+    }
+   ]
+  },
+  {
+   "id": "add-marlin-newkirk",
+   "people": [
+    "marlin-newkirk"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Marlin Newkirk to the tree (b. 1935).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. Benjamin D. Newkirk (d. 1990) may be a parent; not stated. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1935-10-17 (“Marlin Newkirk”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-donald-hadler",
+   "people": [
+    "donald-hadler"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Donald Hadler to the tree (d. 1943).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1943-01-08 (“Donald Hadler”)"
+    }
+   ]
+  },
+  {
+   "id": "add-earl-hadler",
+   "people": [
+    "earl-hadler"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Earl C. Hadler to the tree (b. 1913).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1913-04-21 (“Earl C Hadler”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-frances-hadler",
+   "people": [
+    "frances-hadler"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Frances Hadler to the tree (b. 1916).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1916-08-03 (“Frances Hadler”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-daniel-zylov",
+   "people": [
+    "daniel-zylov"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Daniel E. Zylov to the tree (d. 1951).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1951-01-08 (“Daniel E Zylov”)"
+    }
+   ]
+  },
+  {
+   "id": "add-pauline-holtkamp",
+   "people": [
+    "pauline-holtkamp"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Pauline Holtkamp to the tree (b. 1929).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1929-01-11 (“Pauline Holtkamp”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-loyd-carmichael",
+   "people": [
+    "loyd-carmichael"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Loyd Carmichael to the tree (b. 1919).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1919-01-12 (“Loyd Carmichael”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-marie-carmichael",
+   "people": [
+    "marie-carmichael"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Marie Carmichael to the tree (b. 1921).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1921-01-16 (“Marie Carmichael”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-ruth-guthrie",
+   "people": [
+    "ruth-guthrie"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Ruth Guthrie to the tree (b. 1922).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1922-01-13 (“Ruth Guthrie”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-ray-guthrie",
+   "people": [
+    "ray-guthrie"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Ray Guthrie to the tree (b. 1924).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1924-08-03 (“Ray Guthrie”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-william-redmon",
+   "people": [
+    "william-redmon"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add William F. Redmon to the tree (d. 1964).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1964-01-14 (“William F Redmon”)"
+    }
+   ]
+  },
+  {
+   "id": "add-frieda-redmon",
+   "people": [
+    "frieda-redmon"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Frieda K. Redmon to the tree (b. 1919).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1919-06-22 (“Frieda K Redmon”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-joseph-redmon",
+   "people": [
+    "joseph-redmon"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Joseph Redmon to the tree (b. 1915).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1915-08-03 (“Joseph Redmon”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-joseph-e-redmon",
+   "people": [
+    "joseph-e-redmon"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Joseph E. Redmon to the tree (d. 1960).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1960-10-15 (“Joseph E Redmon”)"
+    }
+   ]
+  },
+  {
+   "id": "add-james-redmon",
+   "people": [
+    "james-redmon"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add James R. Redmon to the tree (d. 1975).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1975-11-22 (“James R Redmon”)"
+    }
+   ]
+  },
+  {
+   "id": "add-misty-redmon",
+   "people": [
+    "misty-redmon"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Misty Redmon to the tree (d. 1975).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1975-06-14 (“Misty Redmon”)"
+    }
+   ]
+  },
+  {
+   "id": "add-donald-griffin",
+   "people": [
+    "donald-griffin"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Donald L. Griffin to the tree (b. 1933).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1933-01-28 (“Donald L Griffin”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-alice-griffin",
+   "people": [
+    "alice-griffin"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Alice M. Griffin to the tree (b. 1935).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1935-03-17 (“Alice M Griffin”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-donna-ketchum",
+   "people": [
+    "donna-ketchum"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Donna Ketchum to the tree (b. 1932).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1932-02-10 (“Donna Ketchum”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-charles-ketchum",
+   "people": [
+    "charles-ketchum"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Charles H. Ketchum to the tree (b. 1928).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1928-12-02 (“Charles H Ketchum”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-margaret-jordan",
+   "people": [
+    "margaret-jordan"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Margaret M. Jordan to the tree (b. 1903).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1903-02-23 (“Margaret M Jordan”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-clarence-jordan",
+   "people": [
+    "clarence-jordan"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Clarence G. Jordan to the tree (b. 1891) (d. 1964).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1891-03-23 (“Clarence G Jordan”); died 1964-12-24 (“Clarence G Jordan”)"
+    }
+   ]
+  },
+  {
+   "id": "add-margie-maurer",
+   "people": [
+    "margie-maurer"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Margie M. Maurer to the tree (b. 1922).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1922-03-21 (“Margie M Maurer”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-francis-maurer",
+   "people": [
+    "francis-maurer"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Francis W. Maurer to the tree (b. 1919).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1919-07-28 (“Francis W Maurer”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-robert-maurer",
+   "people": [
+    "robert-maurer"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Robert Maurer to the tree (d. 1951).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1951-06-10 (“Robert Maurer”)"
+    }
+   ]
+  },
+  {
+   "id": "add-james-wuerth",
+   "people": [
+    "james-wuerth"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add James W. Wuerth to the tree (b. 1935).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1935-03-22 (“James W Wuerth”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-harrell-aldrich",
+   "people": [
+    "harrell-aldrich"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add C. Harrell Aldrich to the tree (b. 1921) (d. 1971).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1921-07-21 (“C Harrell Aldrich”); died 1971-03-26 (“C Harrell Aldrich”)"
+    }
+   ]
+  },
+  {
+   "id": "add-walter-aldrich",
+   "people": [
+    "walter-aldrich"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Walter Aldrich to the tree (d. 1948).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1948-06-16 (“Walter Aldrich”)"
+    }
+   ]
+  },
+  {
+   "id": "add-walter-d-aldrich",
+   "people": [
+    "walter-d-aldrich"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Walter D. Aldrich to the tree (d. 1977).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1977-08-03 (“Walter D Aldrich”)"
+    }
+   ]
+  },
+  {
+   "id": "add-maurice-desseyn",
+   "people": [
+    "maurice-desseyn"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Maurice H. Desseyn to the tree (b. 1929).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1929-03-27 (“Maurice H Desseyn”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-donald-desseyn",
+   "people": [
+    "donald-desseyn"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Donald Desseyn to the tree (d. 1960).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1960-06-14 (“Donald Desseyn”)"
+    }
+   ]
+  },
+  {
+   "id": "add-richard-herrold",
+   "people": [
+    "richard-herrold"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Richard E. Herrold to the tree (b. 1929).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1929-10-02 (“Richard E Herrold”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-wilma-hillman",
+   "people": [
+    "wilma-hillman"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Wilma G. Hillman to the tree (b. 1925).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. Hillman is the book author’s surname, so she may be his relative. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1925-08-20 (“Wilma G Hillman”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-rita-truax",
+   "people": [
+    "rita-truax"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Rita J. Truax to the tree (b. 1932).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1932-08-24 (“Rita J Truax”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-irene-robbins",
+   "people": [
+    "irene-robbins"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add C. Irene Robbins to the tree (b. 1923).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1923-12-16 (“C Irene Robbins”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-james-robbins",
+   "people": [
+    "james-robbins"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add L. James Robbins to the tree (b. 1922).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1922-11-21 (“L James Robbins”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-timothy-robbins",
+   "people": [
+    "timothy-robbins"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Timothy Robbins to the tree (d. 1949).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1949-09-24 (“Timothy Robbins”)"
+    }
+   ]
+  },
+  {
+   "id": "add-dale-baker",
+   "people": [
+    "dale-baker"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add C. Dale Baker to the tree (b. 1913).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1913-11-02 (“C Dale Baker”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-luella-baker",
+   "people": [
+    "luella-baker"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add A. Luella Baker to the tree (b. 1915).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1915-11-22 (“A Luella Baker”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-franklin-jones",
+   "people": [
+    "franklin-jones"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Franklin D. Jones to the tree (b. 1932) (d. 1981).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1932-11-16 (“Franklin D Jones”); died 1981-09-11 (“Franklin D Jones”)"
+    }
+   ]
+  },
+  {
+   "id": "add-john-d-jones",
+   "people": [
+    "john-d-jones"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add John D. Jones to the tree (d. 1962).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1962-06-11 (“John D Jones”)"
+    }
+   ]
+  },
+  {
+   "id": "add-evelyn-dodds",
+   "people": [
+    "evelyn-dodds"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Evelyn Dodds to the tree (b. 1923).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. The calendar spells it “Eveiyn,” taken as OCR for Evelyn. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1923-06-05 (“- Eveiyn Dodds”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-rollin-dodds",
+   "people": [
+    "rollin-dodds"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Rollin Dodds to the tree (b. 1922).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse. No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: born 1922-08-03 (“Rollin Dodds”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-gregory-williams",
+   "people": [
+    "gregory-williams"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Gregory C. Williams to the tree (d. 1976).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1976-08-03 (“Gregory C Williams”)"
+    }
+   ]
+  },
+  {
+   "id": "add-robert-thomas",
+   "people": [
+    "robert-thomas"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Robert Thomas to the tree (d. 1945).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1945-06-11 (“Robert Thomas”)"
+    }
+   ]
+  },
+  {
+   "id": "add-lawson-allen",
+   "people": [
+    "lawson-allen"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Lawson Allen to the tree (d. 1980).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "In the book’s calendar, so a descendant of John I and Margaret or a spouse of one, but the repo’s copy of the book data gives no parents or spouse.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1980-06-08 (“Lawson Allen”)"
+    }
+   ]
+  },
+  {
+   "id": "add-william-jones",
+   "people": [
+    "william-jones"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add William Jones to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from a couple entry in the calendar (marriage, 1932). No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: married 1932-06-14 (“William Jones”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-larry-gray",
+   "people": [
+    "larry-gray"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Larry Gray to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from a couple entry in the calendar (“Larry & Carol Gray,” 1966, marked as a death but probably a marriage). No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1966-06-10 (“Larry & Carol Gray”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-carol-gray",
+   "people": [
+    "carol-gray"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Carol Gray to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from a couple entry in the calendar (“Larry & Carol Gray,” 1966, marked as a death but probably a marriage). No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1966-06-10 (“Larry & Carol Gray”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-ruth-herrold",
+   "people": [
+    "ruth-herrold"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Ruth Herrold to the tree.",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "Known only from a couple entry in the calendar (“n. Richard & Ruth Herrold,” an infant who died in 1984). No death date in the sources and born recently enough to be living, so treat as possibly living: name and year only, nothing else.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1984-03-29 (“n. Richard & Ruth Herrold”)"
+    }
+   ],
+   "possiblyLiving": true
+  },
+  {
+   "id": "add-inf-herrold-1984",
+   "people": [
+    "inf-herrold-1984"
+   ],
+   "topic": "Unplaced",
+   "page": null,
+   "claim": "Add Infant of Richard & Ruth Herrold (1984) to the tree (d. 1984).",
+   "verdict": "book",
+   "confidence": "uncertain",
+   "note": "The calendar entry reads “n. Richard & Ruth Herrold,” a death in 1984. The parents are named in the entry. Only the death year is kept.",
+   "sources": [
+    {
+     "t": "Family book calendar (Hillman 1991), as embedded in app.js EVENTS: died 1984-03-29 (“n. Richard & Ruth Herrold”)"
+    }
+   ]
+  }
+ ],
+ "dedupe": [
+  {
+   "existing": "charles",
+   "name": "Charles Lewis Tellas",
+   "calendarEntries": [
+    "born 1868-01-23 (“Charles L Tellas”)",
+    "died 1942-09-27 (“Charles L Tellas”)",
+    "married 1891-06-01 (“Charles & Sarah (Chillas) Tellas”)"
+   ],
+   "note": "Calendar has birth 23 Jan 1868 and death 27 Sep 1942; the tree has 24 Jan and 28 Sep. Marriage 1 Jun 1891 against 3 Jun 1891 in the book claim."
+  },
+  {
+   "existing": "wmck",
+   "name": "William McKinley Tellas",
+   "calendarEntries": [
+    "born 1897-01-01 (“William M Tellas”)",
+    "died 1972-05-05 (“William M Tellas”)"
+   ],
+   "note": "Birth and death agree with the tree."
+  },
+  {
+   "existing": "john1",
+   "name": "John Thomas Tellas I",
+   "calendarEntries": [
+    "died 1913-02-13 (“John T Tellas I”)",
+    "married 1864-12-02 (“John T & Margaret (Godert) Tellas 1”)"
+   ],
+   "note": "Death agrees. Marriage 2 Dec 1864 against 1 Dec in the book and 30 Nov in the Bible note."
+  },
+  {
+   "existing": "margodert",
+   "name": "Margaret Godert Tellas",
+   "calendarEntries": [
+    "born 1846-11-02 (“Margaret (Godert). Tellas”)",
+    "died 1905-03-30 (“Margaret (Godert) Tellas”)"
+   ],
+   "note": "Death 30 Mar 1905 against 31 Mar in the tree. Birth agrees."
+  },
+  {
+   "existing": "weurigh",
+   "name": "Margaret Louisa Weurigh Godert",
+   "calendarEntries": [
+    "born 1810-02-14 (“Margaret (Weurigh) Godert”)",
+    "died 1886-03-07 (“Margaret (Weurigh) Falderman/Godert”)",
+    "married 1835-06-05 (“(or June 7th) John E & Margaret (Weurigh) Godert”)"
+   ],
+   "note": "Birth and death agree. Marriage dated 5 June 1835, “or June 7th”."
+  },
+  {
+   "existing": "helena",
+   "name": "Helena Elizabeth \"Lena\" Huntemann Teke Veit",
+   "calendarEntries": [
+    "born 1818-09-13 (“Lena (Hunterman) Teke Veit”)",
+    "died 1876-11-08 (“Lena (Hunterman) Teke/Veit”)"
+   ],
+   "note": "Birth 13 Sep 1818 against 12 Sep in the tree. Death agrees."
+  },
+  {
+   "existing": "sarah",
+   "name": "Sarah I. Chillas Tellas",
+   "calendarEntries": [
+    "born 1868-09-24 (“Sarah I (Chillas) Tellas”)",
+    "died 1955-11-08 (“Sarah I (Chillas) Tellas”)"
+   ],
+   "note": "Birth 24 Sep and death 8 Nov 1955, against 25 Sep and 10 Nov in the tree."
+  },
+  {
+   "existing": "w26999715",
+   "name": "Johann Godert",
+   "calendarEntries": [
+    "born 1806-10-09 (“John E Godert”)",
+    "died 1879-06-13 (“J o h n E Godert”)",
+    "married 1835-06-05 (“(or June 7th) John E & Margaret (Weurigh) Godert”)"
+   ],
+   "note": "“John E Godert” is Johann Godert. Birth 9 Oct and death 13 Jun 1879, against 10 Oct and 14 Jun."
+  }
+ ]
+}
